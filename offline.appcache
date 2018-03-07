@@ -1,0 +1,23 @@
+#2017-04-04
+#version 1.0.1
+
+CACHE MANIFEST:
+
+./img/pomodoro.jpg
+jquery.scrollbox.min.js
+style.js
+
+#jquery cdn
+https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css
+https://code.jquery.com/jquery-1.11.3.min.js
+style.js
+./sounds/Buzz.mp3
+./image/pomodoro_view.jpg
+./image/pomodoro_icon.png
+https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js
+
+FALLBACK:
+#//
+
+NETWORK:
+#//

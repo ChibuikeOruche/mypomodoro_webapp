@@ -1,0 +1,33 @@
+{
+	'short_name':'myPomodoro',
+	'name':'my pomodoro app',
+		
+	 	'icons': [
+			{
+				'src':'./img/pomodoro.jpg',
+				'type':'image/jpg',
+				'sizes':'15*15'
+				},
+				
+				{
+				'src':'./images/pomodoro_view.jpg,'
+				'type':'image/jpg',
+				'sizes':'70*70'
+				},
+				
+				{
+				'src':'./images/pomodoro_icon.png',
+				'type':'image/png',
+				'sizes':'192*192'
+				},
+				],
+				
+		'start_url':'pomodoro.php?launcher=true',
+		'background_color':'orange',
+		'orientation':'portrait',
+		'theme-color':'orange',
+		'display':'browser',
+		'description':'Tired of Wasting time? Need a better time manager? You may have tried many; give Pomodoro® a chance',
+		'dir':'ltr',
+		'scope':'/pomodoro/'
+	}
